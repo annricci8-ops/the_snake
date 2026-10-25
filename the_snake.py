@@ -6,10 +6,10 @@
 позиций и typing для аннотаций типов.
 """
 
-import pygame
-
 from random import choice, randint
 from typing import Optional, Tuple
+
+import pygame
 
 # Константы для размеров поля и сетки:
 SCREEN_WIDTH, SCREEN_HEIGHT = 640, 480
